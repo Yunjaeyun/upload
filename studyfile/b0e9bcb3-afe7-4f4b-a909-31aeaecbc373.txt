@@ -1,0 +1,6 @@
+getmapping
+postmapping 차이
+
+2. 단원6 p.9 
+return redirect:// 
+?
